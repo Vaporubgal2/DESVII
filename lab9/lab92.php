@@ -67,7 +67,7 @@
        else{
         print ("No hay noticias disponibles");
        }
-21
+
     ?>
 </body>
 </html>
